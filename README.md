@@ -59,7 +59,7 @@ Other clients receive the updates and apply them to their own Quill editor.
 
 This keeps all users’ documents in real-time sync.
 
-* Features:
+# Features:
 
 Rich Text Editing (bold, italic, underline, lists, links, images, etc.)
 
@@ -69,4 +69,6 @@ WebSocket communication using Socket.IO
 
 Modular and scalable structure
 
+* OUTPUT
 
+![Image](https://github.com/user-attachments/assets/69f4422a-95a0-4753-9199-1c1984732aba)

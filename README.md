@@ -60,6 +60,7 @@ Other clients receive the updates and apply them to their own Quill editor.
 This keeps all users’ documents in real-time sync.
 
 * Features:
+
 Rich Text Editing (bold, italic, underline, lists, links, images, etc.)
 
 Real-time collaboration
